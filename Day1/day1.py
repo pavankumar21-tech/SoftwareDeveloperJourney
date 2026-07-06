@@ -1,0 +1,6 @@
+name=input("enter your name:")
+age=int(input("enter your age:"))
+college=input("enter your college:")
+branch=input("enter your branch:")
+dream=input("enter your dream company:")
+print(name,"\n",age,"\n",college,"\n",branch,"\n",dream)
